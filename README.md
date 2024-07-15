@@ -26,5 +26,5 @@ We welcome contributions, feedback, and ideas to enhance our Diabetes Prediction
 This project is licensed under the MIT License. Feel free to explore, modify, and share the code. Refer to `LICENSE` for more details.
 
 ## Acknowledgments 🙌
-- This project was developed during Machine Learning Training provided by IIT Bhubaneswar, inspired by the potential of machine learning to revolutionize healthcare diagnostics.
+- This project was developed during Machine Learning Training Course provided by IIT Bhubaneswar, inspired by the potential of machine learning to revolutionize healthcare diagnostics.
 - Special thanks to healthcare professionals and researchers dedicated to improving diabetes management and prevention.
